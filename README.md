@@ -1,6 +1,6 @@
 <html>
   
-# <title><h2>Notes Maker Application</h2></title>
+# <h2>Notes Maker Application</h2>
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -45,7 +45,7 @@
   }
 </style>
 </head>
-<body>
+<body background color="aqua">
 
 
 <p><b><i>A simple notes generator application that is used to make notes, save, delete them.</i></b></p>
