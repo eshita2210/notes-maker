@@ -1,3 +1,17 @@
+## Notes Generator
+<b> A simple notes generator application that is used to make notes,save,delete them.</b>
+
+# Developed a dynamic notes generator application utilizing
+-HTML 
+-CSS  
+-JavaScript 
+
+# Key Features
+-note creation 
+-deletion 
+-saving functionalities with enforced word limits and 
+-a toggle mode for enhanced user experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
