@@ -1,10 +1,10 @@
 <html>
-  # <H2>NOTES MAKER</H2>
+   <U><H1>NOTES MAKER</H1></U>
 <body >
 
 
 <p><b><i>A simple notes generator application that is used to make notes, save, delete them.</i></b></p>
-<img width="1100" alt="SS PROJECT" src="src/assets/img/SS PROJECT.png">
+<img width="1100" alt="SS PROJECT" src="src/components/SS NOTES.png">
 
 <h1>Developed a dynamic notes generator application utilizing</h1>
 <ul>
